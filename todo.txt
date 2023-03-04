@@ -1,0 +1,8 @@
+resources:
+https://www.nrel.gov/docs/fy19osti/72509.pdf
+https://www.eia.gov/outlooks/aeo/supplement/dist_bldgs/index.php
+https://www.fortunebusinessinsights.com/u-s-generator-sales-market-106160
+https://www.eia.gov/electricity/monthly/current_month/february2023.pdf
+https://www.eia.gov/electricity/monthly/
+https://www.eia.gov/electricity/data.php#traderel
+https://www.citizensutilityboard.org/wp-content/uploads/2021/07/Electric-Utility-Performance-A-State-By-State-Data-Review_final.pdf
